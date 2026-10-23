@@ -1,0 +1,6 @@
+Student Details
+
+Name: Varshini U
+USN: 2026039
+Experiment: EXP-1
+Subject: DevOps
